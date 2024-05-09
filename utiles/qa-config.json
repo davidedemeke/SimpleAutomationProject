@@ -1,0 +1,11 @@
+{
+  "group_name": "automation",
+  "version_name": "1.x.x",
+  "project_base_url": {
+    "config": {
+      "my_project": {
+        "base_url": "https://petstore.swagger.io/v2"
+      }
+    }
+  }
+}

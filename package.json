@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@wdio/allure-reporter": "^8.36.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "category": {
+    "id": 0,
+    "name": "PetNmaeTest"
+  },
+  "name": "zzzz",
+  "photoUrls": [
+    "www.google.com"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "PetNmaeTest_Tag"
+    }
+  ],
+  "status": "available"
+}

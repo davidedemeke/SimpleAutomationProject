@@ -44,7 +44,7 @@ This project is designed for testing both the UI and API of a web application. I
 
 **Contributors**
 
-- David Emeke - [@davidemeke](https://github.com/davidemeke)
+- David Demeke - [@davidemeke](https://github.com/davidemeke)
 
 Feel free to customize this README further to include any additional information specific to your project.
 

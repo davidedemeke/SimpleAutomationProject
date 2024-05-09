@@ -132,6 +132,7 @@ class TestPetAPI:
                                            status=json_data['status'])
         assert response.status_code == 200, f'Response status expected to be {200} instead got {response.status_code}'
 
+
         # retrieve the created pet and validate response is as expected
         get_added_pet = json_data['id']
         response = pets_module.get_pet_data(get_added_pet)

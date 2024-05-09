@@ -14,7 +14,7 @@ class PetsModule:
         if self._base_url is None:
             with open('../utiles/qa-config.json', "r") as configuration:
                 data = json.load(configuration)
-                self._base_url = data['project_base_url']['config']['my_project']['base_url']
+                self._base_url = data['all_projects']['config']['qa_automation']['base_url']
         return self._base_url
 
     def headers(self):

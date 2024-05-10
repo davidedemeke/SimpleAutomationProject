@@ -1,5 +1,3 @@
-
-
 **Overview**
 
 This project is designed for testing both the UI and API of a web application. It contains automation modules for API testing (`automation_api_module`) and UI testing (`automation_ui_module`), along with test scenarios (`test_scenario`) for both types of testing.
@@ -22,10 +20,10 @@ This project is designed for testing both the UI and API of a web application. I
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Navigate to the `test_scenario` directory.
 4. Run the desired test files using pytest:
-   ```
-   pytest test_api.py
-   pytest test_ui.py
-   ```
+
+pytest test_api.py
+pytest test_ui.py
+
 
 5. View test results and logs for any failures or errors.
 
@@ -46,9 +44,11 @@ This project is designed for testing both the UI and API of a web application. I
 
 - David Demeke - [@davidemeke](https://github.com/davidemeke)
 
+**Requirements**
+
+To install the necessary dependencies, run:
+pip install -r requirements.txt
+
+
 Feel free to customize this README further to include any additional information specific to your project.
-
---- 
-
-This version maintains the structure and content of your original README while making some minor adjustments for clarity and readability. If you have any specific additions or changes in mind, feel free to let me know!
 
